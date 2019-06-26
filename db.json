@@ -1,25 +1,25 @@
 
 {
-  "entries": [
-    {
-      "title": "Vay mua xe",
-      "amount": 40000000,
-      "date": "30/07/2019"
-    },
-    {
-      "title": "Vay mua đất",
-      "amount": 100000000,
-      "date": "30/08/2019"
-    },
-    {
-      "title": "Vay mua nhà",
-      "amount": 400000000,
-      "date": "30/09/2019"
-    },
-    {
-      "title": "Vay mua chung cư",
-      "amount": 300000000,
-      "date": "30/10/2019"
-    }
+  "loans": [
+        {
+          "amount": 111222333,
+          "title": "Vay cưới vợ",
+          "rate": 0.45
+        },
+        {
+          "amount": 45000000,
+          "title": "Vay mua đảo",
+          "rate": 0.45
+        },
+        {
+          "amount": 13000000,
+          "title": "Vay mua điện thoại",
+          "rate": 0.45
+        },
+        {
+          "amount": 34000000,
+          "title": "Vay mua laptop",
+          "rate": 0.45
+        }
   ]
 }
